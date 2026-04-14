@@ -1,0 +1,2 @@
+# Tkinter is built into Python on Windows
+No external dependencies required.
